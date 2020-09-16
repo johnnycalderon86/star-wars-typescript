@@ -1,0 +1,27 @@
+.navbarNav{
+    /* border: 1px solid magenta; */
+    margin: 1em;
+    padding :3em;
+}
+
+.navbarButton{
+    font-size:1.5rem;
+  
+    margin-left: 1em;
+    padding:0.5em 1.5em;
+    border-radius:10px;
+    font-weight:bold;
+    color:yellow;
+    background:#222;
+    border: 5px solid rgb(150, 145, 145);;
+
+}
+.navbarButton:hover{
+    background-color: rgb(108, 146, 202);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    
+}
+.navbarButton:focus{
+    outline: none;
+}

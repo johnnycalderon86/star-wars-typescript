@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding:0;
+}
+
+body {
+  background: url("../images/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg");
+  height: 100vh;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

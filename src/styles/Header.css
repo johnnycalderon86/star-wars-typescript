@@ -1,0 +1,13 @@
+.header {
+  /* margin: 0 auto; */
+  text-align:center;
+  /* border: 1px solid magenta; */
+ 
+}
+.headerTitle{
+    font-family: 'Righteous', cursive;
+    color:yellow;
+    font-size: 3rem;
+    padding:1em;
+    letter-spacing: 3px;
+}
