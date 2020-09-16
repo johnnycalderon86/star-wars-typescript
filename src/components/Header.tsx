@@ -12,7 +12,7 @@ const Header = () => {
 
     return (
         <div className="header">
-        <h1 className="headerTitle">Star Wars</h1>
+        <h1 className="headerTitle">Star Wars App</h1>
         <Navbar page={page} setPage={setPage} />
         <div className="content">
   
